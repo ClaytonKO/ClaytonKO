@@ -1,0 +1,4 @@
+- 👋 Hello! I’m @ClaytonKO
+- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in web dev, game dev, and AI
+- 💞️ I collaborate on projects with my wife, @MichelleNO
